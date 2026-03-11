@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/nitish1391016/leetcode/tree/master/0078-subsets) |
+| [1009-complement-of-base-10-integer](https://github.com/nitish1391016/leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1435-xor-queries-of-a-subarray](https://github.com/nitish1391016/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/nitish1391016/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nitish1391016/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
