@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/nitish1391016/leetcode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/nitish1391016/leetcode/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/nitish1391016/leetcode/tree/master/0120-triangle) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/nitish1391016/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/nitish1391016/leetcode/tree/master/0198-house-robber) |
 | [0228-summary-ranges](https://github.com/nitish1391016/leetcode/tree/master/0228-summary-ranges) |
 | [0322-coin-change](https://github.com/nitish1391016/leetcode/tree/master/0322-coin-change) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/nitish1391016/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/nitish1391016/leetcode/tree/master/0611-valid-triangle-number) |
 | [0729-my-calendar-i](https://github.com/nitish1391016/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/nitish1391016/leetcode/tree/master/0731-my-calendar-ii) |
