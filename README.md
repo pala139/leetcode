@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/nitish1391016/leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/nitish1391016/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/nitish1391016/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/nitish1391016/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1923-sentence-similarity-iii](https://github.com/nitish1391016/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/nitish1391016/leetcode/tree/master/1972-rotating-the-box) |
 | [1980-find-unique-binary-string](https://github.com/nitish1391016/leetcode/tree/master/1980-find-unique-binary-string) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/nitish1391016/leetcode/tree/master/0064-minimum-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/nitish1391016/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nitish1391016/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/nitish1391016/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1972-rotating-the-box](https://github.com/nitish1391016/leetcode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/nitish1391016/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2411-spiral-matrix-iv](https://github.com/nitish1391016/leetcode/tree/master/2411-spiral-matrix-iv) |
