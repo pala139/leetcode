@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nitish1391016/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/nitish1391016/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/nitish1391016/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/nitish1391016/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1524-string-matching-in-an-array](https://github.com/nitish1391016/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nitish1391016/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/nitish1391016/leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/nitish1391016/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/nitish1391016/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1256-rank-transform-of-an-array](https://github.com/nitish1391016/leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/nitish1391016/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nitish1391016/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/nitish1391016/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Counting
