@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nitish1391016/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/nitish1391016/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/nitish1391016/leetcode/tree/master/2465-shifting-letters-ii) |
+| [2485-find-the-pivot-integer](https://github.com/nitish1391016/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2906-construct-product-matrix](https://github.com/nitish1391016/leetcode/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/nitish1391016/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## String
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/nitish1391016/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1622-fancy-sequence](https://github.com/nitish1391016/leetcode/tree/master/1622-fancy-sequence) |
 | [2155-find-missing-observations](https://github.com/nitish1391016/leetcode/tree/master/2155-find-missing-observations) |
+| [2485-find-the-pivot-integer](https://github.com/nitish1391016/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/nitish1391016/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/nitish1391016/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/nitish1391016/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
