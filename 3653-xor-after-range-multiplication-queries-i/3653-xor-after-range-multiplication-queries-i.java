@@ -7,17 +7,13 @@ class Solution {
             arr[i] = (long)nums[i];
         }
         for(int[] q: queries){
-            int l = q[0];
-            int r = q[1];
-            int k = q[2];
-            int v = q[3];
-            for(int i=l;i<=r;i+=k){
-                arr[i] = (arr[i]*(long)v)%MOD;
+            for(int i=q[0];i<=q[1];i+=q[2]){
+                arr[i] = (arr[i]*(long)q[3])%MOD;
             }
         }
         long res = 0;
-        for(long ele: arr)
-            res^=ele;
+        for(int i=0;i<n;i++)
+            res ^=arr[i];
         return (int)res;
     }
 }
