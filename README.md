@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/nitish1391016/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1256-rank-transform-of-an-array](https://github.com/nitish1391016/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nitish1391016/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/nitish1391016/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/nitish1391016/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/nitish1391016/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/nitish1391016/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -252,11 +253,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/nitish1391016/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0988-flip-equivalent-binary-trees](https://github.com/nitish1391016/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nitish1391016/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/nitish1391016/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1484-linked-list-in-binary-tree](https://github.com/nitish1391016/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/nitish1391016/leetcode/tree/master/0322-coin-change) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/nitish1391016/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1484-linked-list-in-binary-tree](https://github.com/nitish1391016/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/nitish1391016/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/nitish1391016/leetcode/tree/master/0064-minimum-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/nitish1391016/leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/nitish1391016/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nitish1391016/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nitish1391016/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/nitish1391016/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -475,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/nitish1391016/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/nitish1391016/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/nitish1391016/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
