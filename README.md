@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/nitish1391016/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/nitish1391016/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/nitish1391016/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2553-separate-the-digits-in-an-array](https://github.com/nitish1391016/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/nitish1391016/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/nitish1391016/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2690-house-robber-iv](https://github.com/nitish1391016/leetcode/tree/master/2690-house-robber-iv) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/nitish1391016/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2155-find-missing-observations](https://github.com/nitish1391016/leetcode/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/nitish1391016/leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2553-separate-the-digits-in-an-array](https://github.com/nitish1391016/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/nitish1391016/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/nitish1391016/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Prefix Sum
