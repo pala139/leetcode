@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/nitish1391016/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2690-house-robber-iv](https://github.com/nitish1391016/leetcode/tree/master/2690-house-robber-iv) |
 | [2755-extra-characters-in-a-string](https://github.com/nitish1391016/leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [2784-check-if-array-is-good](https://github.com/nitish1391016/leetcode/tree/master/2784-check-if-array-is-good) |
 | [2906-construct-product-matrix](https://github.com/nitish1391016/leetcode/tree/master/2906-construct-product-matrix) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/nitish1391016/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3225-maximum-score-from-grid-operations](https://github.com/nitish1391016/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nitish1391016/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2413-smallest-number-in-infinite-set](https://github.com/nitish1391016/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2755-extra-characters-in-a-string](https://github.com/nitish1391016/leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [2784-check-if-array-is-good](https://github.com/nitish1391016/leetcode/tree/master/2784-check-if-array-is-good) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nitish1391016/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3797-design-spreadsheet](https://github.com/nitish1391016/leetcode/tree/master/3797-design-spreadsheet) |
 ## Linked List
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/nitish1391016/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/nitish1391016/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nitish1391016/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2784-check-if-array-is-good](https://github.com/nitish1391016/leetcode/tree/master/2784-check-if-array-is-good) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/nitish1391016/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Counting
 |  |
