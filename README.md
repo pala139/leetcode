@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/nitish1391016/leetcode/tree/master/0611-valid-triangle-number) |
 | [0729-my-calendar-i](https://github.com/nitish1391016/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/nitish1391016/leetcode/tree/master/0731-my-calendar-ii) |
+| [0739-daily-temperatures](https://github.com/nitish1391016/leetcode/tree/master/0739-daily-temperatures) |
 | [0797-rabbits-in-forest](https://github.com/nitish1391016/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/nitish1391016/leetcode/tree/master/0830-largest-triangle-area) |
 | [0859-design-circular-deque](https://github.com/nitish1391016/leetcode/tree/master/0859-design-circular-deque) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/nitish1391016/leetcode/tree/master/0739-daily-temperatures) |
 | [1197-parsing-a-boolean-expression](https://github.com/nitish1391016/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/nitish1391016/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/nitish1391016/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/nitish1391016/leetcode/tree/master/0739-daily-temperatures) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/nitish1391016/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Union-Find
 |  |
