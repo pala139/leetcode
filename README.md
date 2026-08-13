@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/nitish1391016/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nitish1391016/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/nitish1391016/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/nitish1391016/leetcode/tree/master/0165-compare-version-numbers) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/nitish1391016/leetcode/tree/master/0020-valid-parentheses) |
 | [0739-daily-temperatures](https://github.com/nitish1391016/leetcode/tree/master/0739-daily-temperatures) |
 | [1197-parsing-a-boolean-expression](https://github.com/nitish1391016/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/nitish1391016/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -522,4 +524,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/nitish1391016/leetcode/tree/master/0239-sliding-window-maximum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/nitish1391016/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
